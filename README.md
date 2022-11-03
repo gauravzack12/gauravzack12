@@ -4,6 +4,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravzack12&label=Profile%20views&color=0e75b6&style=flat" alt="gauravzack12" /> </p>
 
 - 🌱 I’m currently learning **Python**
@@ -20,7 +21,7 @@
 <p align="left">
 <a href="https://fb.com/teamhydragroup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teamhydragroup" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravzack12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravzack12" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucb30tb0_vvi3mrgfntudhvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucb30tb0_vvi3mrgfntudhvg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zackworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zackworld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
