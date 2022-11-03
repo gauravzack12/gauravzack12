@@ -1,8 +1,10 @@
 ![logo](https://github.com/gauravzack12/gauravzack12/blob/main/Screenshot%202022-11-03%20023515.png)
 
+
 <h1 align="center">Hi 👋, I'm Gauravzack</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
+<img aling="left">right"alt="coding"width="400"src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravzack12&label=Profile%20views&color=0e75b6&style=flat" alt="gauravzack12" /> </p>
@@ -21,7 +23,7 @@
 <p align="left">
 <a href="https://fb.com/teamhydragroup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teamhydragroup" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravzack12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravzack12" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zackworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zackworld" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@gauravzack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gauravzack" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
